@@ -3,7 +3,7 @@
 This is a partial copy of HEC's (Hydrologic Engineering Center) repgen program.
 The program creates fixed form text reports from a time series database, and textfiles.
 
-This is now a fork. The project's primary home is now https://github.com/HydrologicEngineeringCenter/regpen5
+This is now a fork. The project's primary home is now [https://github.com/HydrologicEngineeringCenter/regpen5](https://github.com/USACE-WaterManagement/repgen5)
 
 ## Requirements
 * Python 3.6 or higher
